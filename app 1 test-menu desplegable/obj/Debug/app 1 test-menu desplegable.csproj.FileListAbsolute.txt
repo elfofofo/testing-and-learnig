@@ -1,0 +1,10 @@
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\bin\Debug\app 1 test-menu desplegable.exe.config
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\bin\Debug\app 1 test-menu desplegable.exe
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\bin\Debug\app 1 test-menu desplegable.pdb
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app 1 test-menu desplegable.csproj.AssemblyReference.cache
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app_1_test_menu_desplegable.Pan_cabecera.resources
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app_1_test_menu_desplegable.Properties.Resources.resources
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app 1 test-menu desplegable.csproj.GenerateResource.cache
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app 1 test-menu desplegable.csproj.CoreCompileInputs.cache
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app 1 test-menu desplegable.exe
+C:\Users\XF0FO\source\repos\app 1 test-menu desplegable\obj\Debug\app 1 test-menu desplegable.pdb
